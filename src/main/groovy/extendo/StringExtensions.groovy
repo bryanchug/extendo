@@ -1,6 +1,6 @@
 package extendo
 
-class StringAsTypeExtensions{
+class StringExtensions {
 
     static String getFoo( String self ){
         "bar"

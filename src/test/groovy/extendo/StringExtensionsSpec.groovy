@@ -2,7 +2,7 @@ package extendo
 
 import spock.lang.Specification
 
-class StringAsTypeExtensionsSpec extends Specification {
+class StringExtensionsSpec extends Specification {
 
 	def 'Test date String as Date'(){
         expect:
