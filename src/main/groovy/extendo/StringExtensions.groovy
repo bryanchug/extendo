@@ -2,8 +2,8 @@ package extendo
 
 class StringExtensions {
 
-    static String getFoo( String self ){
-        "bar"
+    static Date toDate( String self ){
+        new Date( self )
     }
 
 }
