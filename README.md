@@ -1,4 +1,4 @@
 extendo
 =======
 
-My list of Groovy 2.0 Extension Modules
+My collection of Groovy 2.0 Extension Modules
